@@ -22,4 +22,4 @@ steps:
 - step9.md
 thumbnail: https://brainarator.s3.amazonaws.com/go.svg
 time: 20 mins
-title: Handling JSON data
+title: GitTestScen1
