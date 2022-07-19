@@ -1,14 +1,18 @@
 categories:
-  - Istio
-description:
-  With the increase in usage of containerized applications,
+- Golang
+description: Lets learn how to create a web application in Go language.
+isDraft: false
+approvalStatus: true
 isAvailable: true
-isNew: true
-isPremium: true
+isNew: false
+isPremium: false
 license: Apache
-scenarioCount: 2
+scenarioCount: 5
 scenarios:
-  - Installation and First Stepsuk80
-  - Learn Request Routinguk80
-  - Fast APIuk80
-title: Introduction to Istiouk80
+- Creating a Simple Go Web Server
+- Creating a WebApp to create File
+- HTML templates in Go
+- Handling JSON data
+- HTTP requests in Go
+thumbnail: https://brainarator.s3.amazonaws.com/new/pngs/go.png
+title: Building Web Applications with Go
