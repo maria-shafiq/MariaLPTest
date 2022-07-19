@@ -15,4 +15,4 @@ scenarios:
 - Handling JSON data
 - HTTP requests in Go
 thumbnail: https://brainarator.s3.amazonaws.com/new/pngs/go.png
-title: Building Web Applications with Go
+title: MariaLPTest
