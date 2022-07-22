@@ -18,4 +18,4 @@ steps:
 - step5.md
 thumbnail: https://brainarator.s3.amazonaws.com/go.svg
 time: 15 mins
-title: Creating a Simple Go Web Server
+title: Creating a Simple Go Web Server Test MS
